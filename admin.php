@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['login'])) {
         $_SESSION['username'] = $user['username'];
 
         // Redirect to homepage
-        header("Location: homepage.html");
+        header("Location: index.html");
         exit;
     } else {
         // If login fails

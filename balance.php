@@ -99,7 +99,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="homepage.html" style="color: white;">Home</a>
+                        <a class="nav-link active" href="index.html" style="color: white;">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#" style="color: white;">About Us</a>

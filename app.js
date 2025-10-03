@@ -15,7 +15,7 @@ document.getElementById("login-btn").addEventListener("click", function () {
     if (user) {
         alert("Login successful!");
         // Redirect to homepage
-        window.location.href = "Homepage.html";
+        window.location.href = "index.html";
     } else {
         alert("Invalid username or password. Please try again.");
     }
